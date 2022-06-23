@@ -1,1 +1,1 @@
-# Javascript
+# Basic Javascript study ✨
